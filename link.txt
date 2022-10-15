@@ -1,0 +1,3 @@
+https://itproger.com/course/csharp/14
+https://metanit.com/sharp/tutorial/3.2.php
+https://docs.microsoft.com/en-us/dotnet/csharp/

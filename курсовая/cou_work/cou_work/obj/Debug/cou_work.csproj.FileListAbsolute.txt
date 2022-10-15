@@ -1,0 +1,10 @@
+C:\Users\alisa\Desktop\курсовая\cou_work\cou_work\bin\Debug\cou_work.exe.config
+C:\Users\alisa\Desktop\курсовая\cou_work\cou_work\bin\Debug\cou_work.exe
+C:\Users\alisa\Desktop\курсовая\cou_work\cou_work\bin\Debug\cou_work.pdb
+C:\Users\alisa\Desktop\курсовая\cou_work\cou_work\obj\Debug\cou_work.csproj.AssemblyReference.cache
+C:\Users\alisa\Desktop\курсовая\cou_work\cou_work\obj\Debug\cou_work.Form1.resources
+C:\Users\alisa\Desktop\курсовая\cou_work\cou_work\obj\Debug\cou_work.Properties.Resources.resources
+C:\Users\alisa\Desktop\курсовая\cou_work\cou_work\obj\Debug\cou_work.csproj.GenerateResource.cache
+C:\Users\alisa\Desktop\курсовая\cou_work\cou_work\obj\Debug\cou_work.csproj.CoreCompileInputs.cache
+C:\Users\alisa\Desktop\курсовая\cou_work\cou_work\obj\Debug\cou_work.exe
+C:\Users\alisa\Desktop\курсовая\cou_work\cou_work\obj\Debug\cou_work.pdb

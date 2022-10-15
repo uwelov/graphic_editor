@@ -1,0 +1,111 @@
+c:\users\алексей\documents\visual studio 2012\Projects\Paint\Paint\bin\Debug\Paint.exe.config
+c:\users\алексей\documents\visual studio 2012\Projects\Paint\Paint\bin\Debug\Paint.exe
+c:\users\алексей\documents\visual studio 2012\Projects\Paint\Paint\bin\Debug\Paint.pdb
+c:\users\алексей\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.Paint.resources
+c:\users\алексей\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+c:\users\алексей\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.exe
+c:\users\алексей\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\Paint\Paint\obj\Debug\Paint.BitmapForma.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\Paint\Paint\obj\Debug\Paint.FontTool.resources
+L:\GDI+\Paint\Paint\bin\Debug\Paint.exe.config
+L:\GDI+\Paint\Paint\obj\Debug\Paint.exe
+L:\GDI+\Paint\Paint\obj\Debug\Paint.pdb
+L:\GDI+\Paint\Paint\bin\Debug\Paint.exe
+L:\GDI+\Paint\Paint\bin\Debug\Paint.pdb
+L:\GDI+\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+L:\GDI+\Paint\Paint\obj\Debug\Paint.BitmapForma.resources
+L:\GDI+\Paint\Paint\obj\Debug\Paint.FontTool.resources
+L:\GDI+\Paint\Paint\obj\Debug\Paint.Paint.resources
+L:\GDI+\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+L:\GDI+\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+L:\GDI+\Paint\Paint\obj\Debug\Paint.ChangeSizeForma.resources
+D:\GDI+\Paint\Paint\bin\Debug\Paint.exe.config
+D:\GDI+\Paint\Paint\obj\Debug\Paint.exe
+D:\GDI+\Paint\Paint\obj\Debug\Paint.pdb
+D:\GDI+\Paint\Paint\bin\Debug\Paint.exe
+D:\GDI+\Paint\Paint\bin\Debug\Paint.pdb
+D:\GDI+\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\GDI+\Paint\Paint\obj\Debug\Paint.BitmapForma.resources
+D:\GDI+\Paint\Paint\obj\Debug\Paint.ChangeSizeForma.resources
+D:\GDI+\Paint\Paint\obj\Debug\Paint.FontTool.resources
+D:\GDI+\Paint\Paint\obj\Debug\Paint.Paint.resources
+D:\GDI+\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\GDI+\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+E:\GDI+\Paint\Paint\bin\Debug\Paint.exe.config
+E:\GDI+\Paint\Paint\obj\Debug\Paint.exe
+E:\GDI+\Paint\Paint\obj\Debug\Paint.pdb
+E:\GDI+\Paint\Paint\bin\Debug\Paint.exe
+E:\GDI+\Paint\Paint\bin\Debug\Paint.pdb
+E:\GDI+\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+E:\GDI+\Paint\Paint\obj\Debug\Paint.BitmapForma.resources
+E:\GDI+\Paint\Paint\obj\Debug\Paint.ChangeSizeForma.resources
+E:\GDI+\Paint\Paint\obj\Debug\Paint.FontTool.resources
+E:\GDI+\Paint\Paint\obj\Debug\Paint.Paint.resources
+E:\GDI+\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+E:\GDI+\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+F:\GDI+\Paint\Paint\bin\Debug\Paint.exe.config
+F:\GDI+\Paint\Paint\obj\Debug\Paint.exe
+F:\GDI+\Paint\Paint\obj\Debug\Paint.pdb
+F:\GDI+\Paint\Paint\bin\Debug\Paint.exe
+F:\GDI+\Paint\Paint\bin\Debug\Paint.pdb
+F:\GDI+\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+F:\GDI+\Paint\Paint\obj\Debug\Paint.BitmapForma.resources
+F:\GDI+\Paint\Paint\obj\Debug\Paint.ChangeSizeForma.resources
+F:\GDI+\Paint\Paint\obj\Debug\Paint.FontTool.resources
+F:\GDI+\Paint\Paint\obj\Debug\Paint.Paint.resources
+F:\GDI+\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+F:\GDI+\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\deste\Desktop\Новая папка (13)\Paint\bin\Debug\Paint.exe.config
+C:\Users\deste\Desktop\Новая папка (13)\Paint\bin\Debug\Paint.exe
+C:\Users\deste\Desktop\Новая папка (13)\Paint\bin\Debug\Paint.pdb
+C:\Users\deste\Desktop\Новая папка (13)\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+C:\Users\deste\Desktop\Новая папка (13)\Paint\obj\Debug\Paint.BitmapForma.resources
+C:\Users\deste\Desktop\Новая папка (13)\Paint\obj\Debug\Paint.ChangeSizeForma.resources
+C:\Users\deste\Desktop\Новая папка (13)\Paint\obj\Debug\Paint.FontTool.resources
+C:\Users\deste\Desktop\Новая папка (13)\Paint\obj\Debug\Paint.Paint.resources
+C:\Users\deste\Desktop\Новая папка (13)\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\deste\Desktop\Новая папка (13)\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\deste\Desktop\Новая папка (13)\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\deste\Desktop\Новая папка (13)\Paint\obj\Debug\Paint.exe
+C:\Users\deste\Desktop\Новая папка (13)\Paint\obj\Debug\Paint.pdb
+C:\Users\alisa\Desktop\Paint(27.11.21)\Paint\bin\Debug\Paint.exe.config
+C:\Users\alisa\Desktop\Paint(27.11.21)\Paint\bin\Debug\Paint.exe
+C:\Users\alisa\Desktop\Paint(27.11.21)\Paint\bin\Debug\Paint.pdb
+C:\Users\alisa\Desktop\Paint(27.11.21)\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+C:\Users\alisa\Desktop\Paint(27.11.21)\Paint\obj\Debug\Paint.BitmapForma.resources
+C:\Users\alisa\Desktop\Paint(27.11.21)\Paint\obj\Debug\Paint.ChangeSizeForma.resources
+C:\Users\alisa\Desktop\Paint(27.11.21)\Paint\obj\Debug\Paint.FontTool.resources
+C:\Users\alisa\Desktop\Paint(27.11.21)\Paint\obj\Debug\Paint.Paint.resources
+C:\Users\alisa\Desktop\Paint(27.11.21)\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\alisa\Desktop\Paint(27.11.21)\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\alisa\Desktop\Paint(27.11.21)\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\alisa\Desktop\Paint(27.11.21)\Paint\obj\Debug\Paint.exe
+C:\Users\alisa\Desktop\Paint(27.11.21)\Paint\obj\Debug\Paint.pdb
+C:\Users\alisa\Desktop\курсовой\Paint(27.11.21)\Paint\bin\Debug\Paint.exe.config
+C:\Users\alisa\Desktop\курсовой\Paint(27.11.21)\Paint\bin\Debug\Paint.exe
+C:\Users\alisa\Desktop\курсовой\Paint(27.11.21)\Paint\bin\Debug\Paint.pdb
+C:\Users\alisa\Desktop\курсовой\Paint(27.11.21)\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+C:\Users\alisa\Desktop\курсовой\Paint(27.11.21)\Paint\obj\Debug\Paint.BitmapForma.resources
+C:\Users\alisa\Desktop\курсовой\Paint(27.11.21)\Paint\obj\Debug\Paint.ChangeSizeForma.resources
+C:\Users\alisa\Desktop\курсовой\Paint(27.11.21)\Paint\obj\Debug\Paint.FontTool.resources
+C:\Users\alisa\Desktop\курсовой\Paint(27.11.21)\Paint\obj\Debug\Paint.Paint.resources
+C:\Users\alisa\Desktop\курсовой\Paint(27.11.21)\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\alisa\Desktop\курсовой\Paint(27.11.21)\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\alisa\Desktop\курсовой\Paint(27.11.21)\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\alisa\Desktop\курсовой\Paint(27.11.21)\Paint\obj\Debug\Paint.exe
+C:\Users\alisa\Desktop\курсовой\Paint(27.11.21)\Paint\obj\Debug\Paint.pdb
+C:\Users\alisa\Desktop\курсовой\Paint(24.12.21)\Paint\bin\Debug\Paint.exe.config
+C:\Users\alisa\Desktop\курсовой\Paint(24.12.21)\Paint\bin\Debug\Paint.exe
+C:\Users\alisa\Desktop\курсовой\Paint(24.12.21)\Paint\bin\Debug\Paint.pdb
+C:\Users\alisa\Desktop\курсовой\Paint(24.12.21)\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+C:\Users\alisa\Desktop\курсовой\Paint(24.12.21)\Paint\obj\Debug\Paint.BitmapForma.resources
+C:\Users\alisa\Desktop\курсовой\Paint(24.12.21)\Paint\obj\Debug\Paint.ChangeSizeForma.resources
+C:\Users\alisa\Desktop\курсовой\Paint(24.12.21)\Paint\obj\Debug\Paint.FontTool.resources
+C:\Users\alisa\Desktop\курсовой\Paint(24.12.21)\Paint\obj\Debug\Paint.Paint.resources
+C:\Users\alisa\Desktop\курсовой\Paint(24.12.21)\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\alisa\Desktop\курсовой\Paint(24.12.21)\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\alisa\Desktop\курсовой\Paint(24.12.21)\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\alisa\Desktop\курсовой\Paint(24.12.21)\Paint\obj\Debug\Paint.exe
+C:\Users\alisa\Desktop\курсовой\Paint(24.12.21)\Paint\obj\Debug\Paint.pdb
